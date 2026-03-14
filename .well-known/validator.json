@@ -1,0 +1,14 @@
+{
+  "validator_name": "Life Validation Network",
+  "version": "1.0.0",
+  "description": "Decentralized memory validation service for AI agents",
+  "api_endpoint": "https://abby-nonattainable-demi.ngrok-free.dev/v1",
+  "capabilities": ["confidence_scoring", "conflict_detection", "batch_validation"],
+  "fee_model": "freemium",
+  "public_key": "pending",
+  "docs_url": "https://github.com/znsyhandao/life-validation-service",
+  "rate_limits": {
+    "free": "100 requests/day",
+    "pro": "unlimited"
+  }
+}
